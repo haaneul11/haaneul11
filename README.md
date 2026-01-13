@@ -3,7 +3,7 @@
 type, color, text, height, fontSize, fontColor 수정 가능-->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=588beb&text=HANEUL&height=200&fontSize=90&fontColor=ffffff)
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=588beb)
+
 <h2 align="center">
 
 Hi there 👋 I'm HANEUL CHOI
@@ -105,3 +105,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=588beb)
