@@ -89,11 +89,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api
-      ?section=footer
-      &type=waving
-      &color=E6D9FF"
-    width="100%"
+    src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=E6D9FF" width="100%"
   />
 </div>
 
