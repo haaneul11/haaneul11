@@ -8,16 +8,7 @@ type, color, text, height, fontSize, fontColor 수정 가능-->
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api
-      ?type=waving
-      &color=E6D9FF
-      &text=HANEUL
-      &height=200
-      &fontSize=90
-      &fontColor=5B4B8A
-      &textAlign=50
-      &textAlignY=50"
-    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=E6D9FF&text=HANEUL&height=200&fontSize=90&fontColor=5B4B8A&textAlign=50&textAlignY=50" width="100%"
   />
 </div>
 
