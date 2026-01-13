@@ -47,7 +47,6 @@ type, color, text, height, fontSize, fontColor 수정 가능-->
 	<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"></a>&nbsp
 	<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white"></a>&nbsp
 	<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEZ%20IDE&logoColor=white"></a>&nbsp
-	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"></a>&nbsp
 	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp
 	<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"></a>&nbsp
 </p>
@@ -82,11 +81,6 @@ type, color, text, height, fontSize, fontColor 수정 가능-->
 <!-- react-nativ -->
 <!-- <image src="https://user-images.githubusercontent.com/63652102/106357239-43218f00-6348-11eb-9a0a-527ca680c055.png" width="55px"/> -->
 
-<br><br>
-<div align="center">
-	
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soohyunnn&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 <!--
 **soohyunnn/soohyunnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
