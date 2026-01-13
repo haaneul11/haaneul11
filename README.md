@@ -3,7 +3,7 @@
 type, color, text, height, fontSize, fontColor 수정 가능-->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=588beb&text=HANEUL&height=200&fontSize=90&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=588beb&text=HANEUL&height=200&fontSize=90&fontColor=ffffff" width="100%" textAlign="center" />
 </div>
 
 
@@ -80,4 +80,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=588beb)
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=588beb"
+    width="100%"
+  />
+</div>
+
