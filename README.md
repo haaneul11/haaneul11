@@ -4,13 +4,10 @@ type, color, text, height, fontSize, fontColor 수정 가능-->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=588beb&text=HANEUL&height=200&fontSize=90&fontColor=ffffff)
 
-<h2 align="center">
 
-Hi there 👋 I'm HANEUL CHOI
-<p align="center"> <samp> I am a 5th year <b>backend developer</b> </samp></p>.
-
-</h2>
-
+<p align="center">
+  <samp> Hi there 👋 I'm HANEUL CHOI I am a 5th year <b>backend developer ⭐
+</samp>
 
 
 <p align="center">
