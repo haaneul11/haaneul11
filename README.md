@@ -16,7 +16,7 @@ type, color, text, height, fontSize, fontColor 수정 가능-->
 
 
 <p align="center">
-  <samp> Hi there 👋 I'm HANEUL CHOI I am a 5th year <b>backend developer ⭐
+  <samp> 👋 I'm HANEUL CHOI I am a 5th year <b>backend developer ⭐
 </samp>
 
 <div align= "center">
