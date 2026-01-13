@@ -2,9 +2,25 @@
 
 type, color, text, height, fontSize, fontColor 수정 가능-->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=588beb&text=HANEUL&height=200&fontSize=90&fontColor=ffffff" width="100%" textAlign="center" />
+</div> -->
+
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api
+      ?type=waving
+      &color=E6D9FF
+      &text=HANEUL
+      &height=200
+      &fontSize=90
+      &fontColor=5B4B8A
+      &textAlign=50
+      &textAlignY=50"
+    width="100%"
+  />
 </div>
+
 
 
 
@@ -82,8 +98,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=588beb"
+    src="https://capsule-render.vercel.app/api
+      ?section=footer
+      &type=waving
+      &color=E6D9FF"
     width="100%"
   />
 </div>
+
 
