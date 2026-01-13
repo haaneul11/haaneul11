@@ -22,11 +22,11 @@ type, color, text, height, fontSize, fontColor 수정 가능-->
 <!-- My GitHub Stats - Purple Theme -->
 
 <a href="https://github.com/haaneul11">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=JeongMinIsBest&show_icons=true&include_all_commits=true&hide_border=true&bg_color=E6D9FF&title_color=5B4B8A&text_color=5B4B8A&icon_color=7B6CF6" alt="JeongMin's GitHub Status" />
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=haaneul11&show_icons=true&include_all_commits=true&hide_border=true&bg_color=E6D9FF&title_color=5B4B8A&text_color=5B4B8A&icon_color=7B6CF6" alt="Haneul's GitHub Status" />
 </a>
 
 <a href="https://github.com/haaneul11">
-  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeongMinIsBest&layout=compact&hide_border=true&bg_color=E6D9FF&title_color=5B4B8A&text_color=5B4B8A" />
+  <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=haaneul11&layout=compact&hide_border=true&bg_color=E6D9FF&title_color=5B4B8A&text_color=5B4B8A" />
 </a>
 
 <hr></hr>
