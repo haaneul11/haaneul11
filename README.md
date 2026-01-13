@@ -19,6 +19,19 @@ type, color, text, height, fontSize, fontColor 수정 가능-->
   <samp> Hi there 👋 I'm HANEUL CHOI I am a 5th year <b>backend developer ⭐
 </samp>
 
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
+    <div align= "center"> <a href=https://티 스 토 리 주 소> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://godneul-dev.tistory.com"> </a>
+         <!-- <a href=노 션 아 이 디> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= 메 일 주 소"> </a> -->
+         <!-- <a href=https://www.instagram.com/인스타그램 아이디> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/인 스 타 아 이 디"> </a> -->
+         <a href=mailto:메 일 주 소> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sksmsqodn20@naver.com"> </a>
+          </div><br>
+    <div align= "center">  </div> 
+    <h2 align="center">📧 Email 📧</h2>
+<p align="center">
+  <Strong> sksmsqodn20@naver.com </Strong>
+</p><br>
+
 <!-- My GitHub Stats - Purple Theme -->
 
 <!-- <a href="https://github.com/haaneul11"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=haaneul11&show_icons=true&include_all_commits=true&hide_border=true&bg_color=E6D9FF&title_color=5B4B8A&text_color=5B4B8A&icon_color=7B6CF6" alt="Haneul's GitHub Status" /></a>
