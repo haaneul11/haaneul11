@@ -2,7 +2,7 @@
 
 type, color, text, height, fontSize, fontColor 수정 가능-->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=588beb&text=HANEUL&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=588beb&text=HANEUL&width=100%&height=200&fontSize=90&fontColor=ffffff)
 
 
 <p align="center">
