@@ -1,8 +1,15 @@
+<!--My Customizing
+
+type, color, text, height, fontSize, fontColor 수정 가능-->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=588beb&text=JEONGMIN&height=200&fontSize=90&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=588beb)
+
 <h2 align="center">
 Hi there 👋 I'm HANEUL CHOI
 </h2>
 
-<p align="center">I am a 5th year <b>backend developer</b>.
+<p align="center"> <samp> I am a 5th year <b>backend developer</b> </samp></p>.
 
 <p align="center">
 	<a href="http://linkedin.com/in/수현-최-2695a4202/" rel="nofollow">
